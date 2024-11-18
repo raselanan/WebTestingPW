@@ -1,3 +1,4 @@
+Read Me doc - Anan 
 # Playwright Automation framework (Page object model)
 
 This framework is designed to be used as a boilerplate template to start automation testing quickly for any web application. The page object model is used to structure the test.
